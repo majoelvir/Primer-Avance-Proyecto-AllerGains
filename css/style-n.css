@@ -1,0 +1,153 @@
+@import url("https://use.typekit.net/wtq1ljy.css");
+@import url("https://use.typekit.net/wtq1ljy.css");
+@import url("https://use.typekit.net/wtq1ljy.css");
+@import url("https://use.typekit.net/wtq1ljy.css");
+
+body {
+  font-family: "haboro-soft", sans-serif;
+  background-color: #f1f1db;
+}
+h1,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "mencken-std", sans-serif;
+}
+
+h1{
+    color: #06442f;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #06442f;
+    color: #f1f1db;
+	padding: 1rem;
+}
+
+footer h3 {
+  margin-bottom: 10px;
+}
+
+footer .row {
+  text-align: center;
+}
+.icono {
+  margin-right: 70px;
+}
+.nosotros {
+  padding: 4rem 0;
+  color: #333; 
+  text-align: left;
+  font-size: 20px;
+}
+
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+#historia h1{
+  text-align: center;
+}
+
+
+#valores p{
+  text-align: left;
+  font-size: 20px;
+}
+
+#valores img {
+  width: 80%;
+  align-items: center;
+
+}
+
+#mision h1 {
+  text-align: center;
+}
+
+#vision h1 {
+  text-align: center;
+}
+
+
+.image-wrapper-l {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.image-wrapper-l img {
+  width: 80%;
+  height: 80%;
+  object-fit: cover; 
+}
+
+.image-wrapper-r {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.image-wrapper-r img {
+  width: 80%;
+  height: 80%;
+  object-fit: cover; 
+}
+
+
+/*NavBar, solo copiar en otras páginas jeje*/
+.navbar-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 0;
+	border-radius: 30px;
+	margin: 20px auto;
+	max-width: 1000px;
+  }
+.logo-container{
+	max-width: 2000px;
+}
+ .logo {
+	max-height: 100px;
+	width: auto;
+}
+  .navbar {
+	display: flex;
+	background-color: #06442f;
+	border-radius: 30px;
+	padding: 13px 20px;
+	align-items: center;
+  }
+  
+  .navbar-nav {
+	display: flex;
+	gap: 20px;
+  }
+  
+  .nav-link {
+	font-size: 20px;
+	font-weight: bold;
+	color: #f8f8f8 !important;
+	text-decoration: none;
+  }
+  
+  .nav-link:hover {
+	text-decoration: underline;
+  }
+/*NavBar, solo copiar en otras páginas jeje*/

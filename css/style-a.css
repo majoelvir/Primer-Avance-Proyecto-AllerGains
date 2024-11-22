@@ -1,0 +1,183 @@
+@import url("https://use.typekit.net/wtq1ljy.css");
+ @import url("https://use.typekit.net/wtq1ljy.css");
+  @import url("https://use.typekit.net/wtq1ljy.css");
+  @import url("https://use.typekit.net/wtq1ljy.css");
+
+
+
+body{
+	font-family: "haboro-soft", sans-serif;
+	background-color:#F1F1DB;
+}
+h1,h3,h4,h5,h6{
+	font-family: "mencken-std", sans-serif;
+}
+header{
+	background-color:#F1F1DB;
+	padding-top: 10px;
+}
+
+#hero{
+	font-size: 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color:#CE4E2E;
+	text-align: center;
+	
+}
+
+.textodeinicio{
+	padding-top: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+} 
+
+.subtitulodeinicio{
+	text-align: center;
+}
+
+#services{
+	color: #F1F1DB;
+	background-color: #CE4E2E;
+	padding:80px;
+}
+
+h3{
+	color:#F1F1DB;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.margin{
+	margin-bottom: 20px;
+}
+
+
+footer {
+  background-color: #CE4E2E;
+  color: #f5f0e1;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
+#recetas{
+	padding: 80px;
+}
+
+.button-container {
+  width: 100%; 
+}
+
+.btn {
+  background-color: #CE4E2E;
+  border: none;
+  border-radius: 50px;
+  margin-top: 20px;
+  color: #f5f0e1;
+  padding: 10px; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+	width:200px;
+}
+
+.subtitulos{
+	font-size: 56px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.titulo-sub{
+	color:black;
+	margin-top: 20px;
+}
+
+h4{
+	color:#CE4E2E;
+	margin-top: 20px;
+}
+
+#recetas img {
+  height: 500px; 
+  object-fit: cover;
+}
+
+.icono {
+  margin-right: 70px;
+}
+
+.footer i{
+	text-align: right;
+}
+
+.info-container {
+    background-color: white; 
+    border-radius: 15px;
+    padding: 20px; 
+    max-width: 600px;
+    width: 80%;
+    margin: 0 auto; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+.navbar-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 0;
+	border-radius: 30px;
+	margin: 20px auto;
+	max-width: 1000px;
+  }
+.logo-container{
+	max-width: 2000px;
+}
+ .logo {
+	max-height: 100px;
+	width: auto;
+}
+  .navbar {
+	display: flex;
+	background-color: #CE4E2E;
+	border-radius: 30px;
+	padding: 13px 20px;
+	align-items: center;
+  }
+  
+  .navbar-nav {
+	display: flex;
+	gap: 20px;
+  }
+  
+  .nav-link {
+	font-size: 20px;
+	font-weight: bold;
+	color: #f8f8f8 !important;
+	text-decoration: none;
+  }
+  
+  .nav-link:hover {
+	text-decoration: underline;
+  }
+
+  .img-fluid.icon {
+    max-width: 100%; 
+    height: 250px; 
+    display: inline-block; 
+    border-radius: 50%; 
+    border: 2px solid #ccc; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease; 
+  }
+  
+  .img-fluid.icon:hover {
+    transform: scale(1.1); 
+    border-color: #FFFFFF; 
+  }
+  
